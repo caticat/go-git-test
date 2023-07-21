@@ -1,7 +1,0 @@
-# go-git-test
-
-go-git-test
-
-1
-0
-1
