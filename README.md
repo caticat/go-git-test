@@ -4,3 +4,4 @@ go-git-test
 
 1
 0
+1
